@@ -1,0 +1,23 @@
+16/05/2023 10:47:58 devpinoyLogger Executing test : Login
+16/05/2023 10:47:58 devpinoyLogger Result of test case execution - Pass
+16/05/2023 10:47:58 devpinoyLogger Result of test case execution - Fail
+16/05/2023 10:47:58 devpinoyLogger Error while taking screenshot : Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "util.TestUtil.driver" is null
+16/05/2023 10:47:58 devpinoyLogger SCREENSHOT taken under : C:\Users\Priyadarshan Mohanty\Desktop\Cloud Auto/Report/Suite1_TC1_TS2_login0.jpg
+16/05/2023 10:47:59 devpinoyLogger Executing closeDriver
+16/05/2023 10:47:59 devpinoyLogger Result of test case execution - Pass
+16/05/2023 10:47:59 devpinoyLogger Result of test case execution - Fail
+16/05/2023 10:47:59 devpinoyLogger Error while taking screenshot : Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "util.TestUtil.driver" is null
+16/05/2023 10:47:59 devpinoyLogger SCREENSHOT taken under : C:\Users\Priyadarshan Mohanty\Desktop\Cloud Auto/Report/Suite1_TC1_TS4_version0.jpg
+16/05/2023 10:47:59 devpinoyLogger Result of test case execution - Fail
+16/05/2023 10:47:59 devpinoyLogger Error while taking screenshot : Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "util.TestUtil.driver" is null
+16/05/2023 10:47:59 devpinoyLogger SCREENSHOT taken under : C:\Users\Priyadarshan Mohanty\Desktop\Cloud Auto/Report/Suite1_TC1_TS5_logo0.jpg
+16/05/2023 10:47:59 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:47:59 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:47:59 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:47:59 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:47:59 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:48:00 devpinoyLogger Error came : testscripts.Keywords.()
+16/05/2023 10:48:00 devpinoyLogger Result of the 'Login' test suite execution - Fail
+16/05/2023 10:48:00 devpinoyLogger Skipping the test : Signup
+16/05/2023 10:48:00 devpinoyLogger Skipping the test : Home Page
+16/05/2023 10:48:00 devpinoyLogger Executing closeDriver
